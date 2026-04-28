@@ -1,6 +1,6 @@
 {
   "name": "maw-park",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Park (pause) tmux windows with git context for later resume",
   "license": "MIT",
   "repository": "Soul-Brews-Studio/maw-park",
@@ -18,5 +18,11 @@
   "peerDependencies": {
     "@maw-js/sdk": "^1.0.0-alpha"
   },
-  "keywords": ["maw", "maw-plugin", "park", "tmux", "context-switch"]
+  "keywords": [
+    "maw",
+    "maw-plugin",
+    "park",
+    "tmux",
+    "context-switch"
+  ]
 }
